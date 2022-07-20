@@ -58,9 +58,9 @@ body {
     background-color: var(--line-border-fill);
     position: absolute;
     top: 50%;
-    left: 0;
+    left: 0px;
     height: 4px;
-    width: 0%;
+    width: 8%;
     transform: translateY(-50%);
     z-index: -1;
     transition: .4s ease;
